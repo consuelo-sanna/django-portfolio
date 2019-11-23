@@ -16,4 +16,7 @@ def education(request):
 def skill(request):
     return render(request, "skill.html")
 
+def projects(request):
+    return render(request, "projects.html")
+
 

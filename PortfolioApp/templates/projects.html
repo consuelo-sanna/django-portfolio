@@ -1,0 +1,58 @@
+{% extends 'navbar.html' %}
+{% block  content %}
+<div class="container-fluid p-0">
+    {% load static %}
+        <div class="resume-section p-3 p-lg-5 d-flex flex-column" id="skills">
+
+            <h2 class="mb-5">Projects</h2>
+            <p class="lead mb-5"> A showcase of some of my projects. </p>
+        <div>
+            <h3 > Portfolio</h3>
+            <div class="row">
+
+                    <div class="col-sm-5 " >
+
+                        <div class="projects-photo">
+                            <img class="img-responsive " style="border: 1px solid black" width="250" height="153" src="{% static 'img/portfolio.jpg' %}"
+                                 alt="Project">
+                        </div >
+                    </div>
+                    <div class="projects-description col-sm-7">
+                        <p> This Portfolio was entirely built with the Framework Django. The idea was to learn this framework and improve my Python, HTML & CSS skills.</p>
+                        <a class=" btn btn-primarly" href="https://github.com/consuelo-sanna/django-portfolio" target="_blank"> Source Code </a>
+                    </div>
+            </div>
+                    <hr class="visible-xs">
+        </div>
+
+        <div>
+            <h3 > BarbART</h3>
+            <div class="row">
+                    <div class="col-sm-5" >
+                        <div class="projects-photo">
+                            <img class="img-responsive" style="border: 1px solid black"    width="250" height="153" src="{% static 'img/BarbART.png' %}"
+                                 alt="Project">
+                        </div >
+                    </div>
+                    <div class="projects-description col-sm-7">
+                        <p> This is a web site built with HTML, CSS & JavaScript. I still want to add some extra feature and pages to this, but I think it is alredy visitable.</p>
+                        <a class=" btn btn-primarly" href="https://consuelo-sanna.github.io/test/index.html" target="_blank"> Site </a>
+                        <a class=" btn btn-primarly" href="https://github.com/consuelo-sanna/test" target="_blank"> Source Code </a>
+                    </div>
+            </div>
+                    <hr class="visible-xs">
+        </div>
+
+
+
+
+
+
+
+        </div>
+
+
+        <hr class="m-0">
+
+</div>
+{% endblock %}
