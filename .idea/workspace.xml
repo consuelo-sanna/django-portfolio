@@ -4,10 +4,7 @@
     <list default="true" id="f134a020-9555-46b8-aa9a-a193900c995f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PortfolioApp/static/css/resume.css" beforeDir="false" afterPath="$PROJECT_DIR$/PortfolioApp/static/css/resume.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortfolioApp/templates/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/PortfolioApp/templates/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortfolioApp/templates/navbar.html" beforeDir="false" afterPath="$PROJECT_DIR$/PortfolioApp/templates/navbar.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortfolioApp/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/PortfolioApp/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortfolioApp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/PortfolioApp/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PortfolioApp/templates/projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/PortfolioApp/templates/projects.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -118,7 +115,8 @@
       <workItem from="1573577137511" duration="566000" />
       <workItem from="1573903014158" duration="8151000" />
       <workItem from="1573912548977" duration="4038000" />
-      <workItem from="1574518901188" duration="8872000" />
+      <workItem from="1574518901188" duration="9543000" />
+      <workItem from="1574580592879" duration="812000" />
     </task>
     <servers />
   </component>
